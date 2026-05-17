@@ -1,13 +1,13 @@
 {
-  "latestVersion": "0.1.0",
+  "latestVersion": "0.2.0",
   "minimumSupportedVersion": "0.1.0",
-  "title": "FocusLock is up to date",
-  "message": "You are using the latest FocusLock build.",
+  "title": "FocusLock 0.2.0 is ready",
+  "message": "A new FocusLock update is available with improvements and fixes.",
   "releaseNotes": [
-    "GitHub-powered update checks are now available.",
-    "The update screen can show live release notes from this file.",
-    "Future update messages can be changed without rebuilding the app."
+    "Improved blocking reliability.",
+    "Polished the You tab experience.",
+    "Fixed minor UI issues."
   ],
-  "downloadUrl": "",
+  "downloadUrl": "https://your-download-link.com/focuslock-0.2.0.apk",
   "ctaLabel": "Copy update link"
 }
