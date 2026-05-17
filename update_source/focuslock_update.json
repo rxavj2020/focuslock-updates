@@ -1,0 +1,13 @@
+{
+  "latestVersion": "0.1.0",
+  "minimumSupportedVersion": "0.1.0",
+  "title": "FocusLock is up to date",
+  "message": "You are using the latest FocusLock build.",
+  "releaseNotes": [
+    "GitHub-powered update checks are now available.",
+    "The update screen can show live release notes from this file.",
+    "Future update messages can be changed without rebuilding the app."
+  ],
+  "downloadUrl": "",
+  "ctaLabel": "Copy update link"
+}
