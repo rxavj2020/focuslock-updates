@@ -1,13 +1,13 @@
 {
-  "latestVersion": "0.1.0",
-  "minimumSupportedVersion": "0.1.0",
-  "title": "You're up to date",
+  "latestVersion": "0.1.1",
+  "minimumSupportedVersion": "0.1.1",
+  "title": "FocusLock v 0.1.0",
   "message": "A new FocusLock update is available with improvements and fixes.",
   "releaseNotes": [
-    "Improved blocking reliability.",
-    "Polished the You tab experience.",
-    "Fixed minor UI issues."
+    "Entire new theme - easy, adaptive",
+    "Added Water Reminders",
+    "Added Max Bypass Setting"
   ],
-  "downloadUrl": "https://your-download-link.com/focuslock-0.2.0.apk",
+  "downloadUrl": "https://drive.google.com/file/d/1mgWJqr9Gw0qIbSJb-Pz8mPFc1BdpF0MQ/view?usp=sharing",
   "ctaLabel": "Download now"
 }
