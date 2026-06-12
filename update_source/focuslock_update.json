@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.1.1",
-  "minimumSupportedVersion": "0.1.1",
+  "latestVersion": "0.1.2",
+  "minimumSupportedVersion": "0.1.2",
   "title": "FocusLock v 0.1.1",
   "message": "A new FocusLock update is available with improvements and fixes.",
   "releaseNotes": [
@@ -8,6 +8,6 @@
     "Added Water Reminders",
     "Added Max Bypass Setting"
   ],
-  "downloadUrl": "https://drive.google.com/file/d/1cBk_NUg6UiEku-KkuYyXkquc2W5S-Y1i/view?usp=sharing",
+  "downloadUrl": "https://drive.google.com/file/d/1QxTb-8djzpeTCQp_-_JsYFlSvdcV1XDt/view?usp=sharing",
   "ctaLabel": "Download now"
 }
